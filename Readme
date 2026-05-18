@@ -1,0 +1,15 @@
+# VidyaBot – Offline AI Teacher using Gemma 4
+
+VidyaBot is an offline educational AI assistant built using Google Gemma 4 models for rural and low-connectivity learning environments.
+
+## Features
+- Educational Q&A
+- Lightweight AI
+- Rural accessibility
+- Offline-first concept
+
+## Tech Stack
+- Gemma 4
+- Transformers
+- Gradio
+- Google Colab
